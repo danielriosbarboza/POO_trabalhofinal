@@ -1,0 +1,7 @@
+Maquina: Robo 1
+Modelo = Pintar
+	Passo1: inicia
+	Passo2: posiciona
+	Passo3: pinta
+	Passo4: secar
+	Passo5: encerrar
